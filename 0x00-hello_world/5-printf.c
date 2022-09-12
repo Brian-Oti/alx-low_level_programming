@@ -1,23 +1,13 @@
-#include <stdio.h.>
+#include <stdio.h>
 /**
- * main - print the string in the function printf
+ * main - print the string in the put function
  *
- * Description: Using the main function
- * This program prints with proper grammar, but the outcome is a piece of art,"#include <stdio.h.>
- */**
-main - print the string in the function printf
-
-Description: Using the main function
-This program prints with proper grammar, but the outcome is a piece of art,"#include <stdio.h.>
-/**
- * main - print the string in the function printf
- *
- * Description: Using the main function
- * This program prints "with proper grammar, but the outcome is a piece of art,"
- * Return: 0
+ * Description: using the main function
+ * this program prints "Programming is like building a multilingual puzzle
+ * Return (0)
  */
 int main(void)
 {
-	printf("%.\n",'with proper grammar, but the outcome is a piece of art,');
-	return(0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
