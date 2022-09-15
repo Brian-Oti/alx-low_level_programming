@@ -6,7 +6,7 @@
  *
  * Description: prints _putchar using putchar prototype
  *
- * Return : Always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
