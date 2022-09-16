@@ -8,9 +8,12 @@
  * Return: Always 0 (Success)
  */
 
-int _abs(int)
+int _abs(int c)
 {
-	if (n < 0)
-		n = (-1) * n;
-	return (n);
+	if (c > 0 || c == 0)
+	{
+		return (c);
+	}
+	else
+		return (c * -1);
 }
